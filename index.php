@@ -4,7 +4,7 @@
     <head>
         <title>Atom.Tracker</title>
 
-        <!-- Latest compiled and minified CSS -->
+        <!-- Latest compiled and minified CSS test -->
         <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
 
         <!-- fontawesome -->
@@ -35,8 +35,8 @@
 
                     <div class="col-xs-2">
                         <button type="submit" name = "submit" class="btn btn-block btn-success"><?=i('play')?></button>
-                    </div>     
-                </form>           
+                    </div>
+                </form>
             </div>
             <hr>
             <table class="table table-bordered">
@@ -53,12 +53,12 @@
                 <tbody id="log"></tbody>
 
             </table>
-            
+
         </div>
 
         <!-- jquery -->
         <script src="https://code.jquery.com/jquery-3.1.1.js" integrity="sha256-16cdPddA6VdVInumRGo6IbivbERE8p7CQR3HzTBuELA="  crossorigin="anonymous"></script>
-        
+
         <!-- app scripts -->
         <script src="tracker.js"></script>
 
